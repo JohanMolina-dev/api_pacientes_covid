@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="User authentication in the api" skipped="0" tests="2" time="0.29" timestamp="2021-05-30 06:38:25"><testcase name="Successful authentication"/><testcase name="Authentication failed"/></testsuite>
